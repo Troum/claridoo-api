@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="67659050-8177-48e3-96f2-930da30d2381" name="Claridoo-API" url="http://vh118.hoster.by">
+        <fileTransfer host="vh118.hoster.by" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/adminmor/public_html/claridoo-api.nitg.site" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
